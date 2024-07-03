@@ -1,0 +1,29 @@
+.navbar {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 1rem;
+  background-color: #333;
+  color: #fff;
+  font-size: 1.2rem;
+  font-weight: 500;
+  font-family: "Open Sans", sans-serif;
+  box-shadow: 0 0.25rem 0.5rem rgba(0, 0, 0, 0.1);
+  height: 3rem;
+  margin: 1.2rem 0.5rem;
+
+  border-radius: 0.5rem;
+  border: 1px solid #ccc;
+}
+
+.logo {
+  width: 4rem;
+  height: 4rem;
+}
+
+.logo-container {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-left: 1rem;
+}
