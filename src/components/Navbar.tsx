@@ -1,6 +1,6 @@
 import styles from "./styles/navbar.module.css";
 
-export const Navbar = (props: {}) => {
+export const Navbar = () => {
   return (
     <div className={styles["navbar"]}>
       <div className={styles["logo-container"]}>
